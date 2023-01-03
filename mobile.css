@@ -1,0 +1,43 @@
+@media (max-width: 600px) {
+ .ul-header {
+  display: none;
+ }
+ /* menu toggle */
+ .menu-button {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  width: 40px;
+  height: 36px;
+  padding: 10px;
+  border-radius: 7px;
+  cursor: pointer;
+  background: var(--background);
+ }
+
+ .menu-button span {
+  width: 40px;
+  height: 4px;
+  background: var(--text);
+ }
+ .menu-toggle {
+  display: none;
+ }
+ .toggle {
+  display: none;
+  text-align: center;
+  background: var(--background);
+  border-radius: 7px;
+  padding: 20px;
+  width: 150px;
+  margin: 10px auto;
+ }
+
+ .toggle li {
+  display: none;
+  /* display: block; */
+  padding: 10px 0;
+  color: var(--text);
+ }
+}

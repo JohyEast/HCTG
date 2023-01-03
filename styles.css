@@ -29,6 +29,12 @@
  justify-content: space-around;
  padding-top: 1rem;
 }
+
+.menu-toggle,
+.toggle {
+ display: none;
+}
+
 /* h1 */
 
 h1 {
@@ -55,6 +61,7 @@ h1 {
  background-repeat: no-repeat;
  background-size: cover;
 } */
+/* mision y vision */
 
 .mi-vi {
  margin-top: 2rem;
