@@ -44,6 +44,34 @@ h1 {
 }
 
 .imgHCTG img {
- width: 50vw;
- height: 60vh;
+ width: 40vw;
+ height: 50vh;
+}
+
+/* body {
+ background-image: url(./assets/HCTG.jpeg);
+ background-position-y: top;
+ background-position-x: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+} */
+
+.mi-vi {
+ margin-top: 2rem;
+ display: flex;
+ justify-content: space-around;
+}
+
+.vision,
+.mision {
+ margin: 0rem 1rem;
+ text-align: center;
+ width: 40%;
+}
+/* footer */
+
+footer {
+ margin-top: 2rem;
+ text-align: center;
+ font-size: 10px;
 }
