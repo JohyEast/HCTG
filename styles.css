@@ -41,6 +41,10 @@ h1 {
  margin-top: 3.5rem;
  text-align: center;
 }
+
+#inicio {
+ scroll-margin-top: 3rem;
+}
 /* imagen HCTG */
 
 .imgHCTG {
@@ -75,6 +79,11 @@ h1 {
  text-align: center;
  width: 40%;
 }
+
+h2 {
+ text-align: center;
+}
+
 /* footer */
 
 footer {
