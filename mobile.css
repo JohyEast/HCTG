@@ -5,15 +5,15 @@
   display: none;
  }
 
- .navbar {
+ /*  .navbar {
   display: flex;
   justify-content: flex-end;
   align-items: center;
- }
+ } */
 
  /* menu toggle */
  .menu-button {
-  margin-right: 1rem;
+  margin: auto;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
@@ -53,7 +53,7 @@
 
  .menu-toggle:checked + .toggle {
   display: block;
-  margin-top: 3rem;
+  margin: auto;
  }
 
  /* IMG HCTG */
