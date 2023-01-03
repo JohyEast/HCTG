@@ -23,7 +23,6 @@
   padding: 7px;
   border-radius: 7px;
   cursor: pointer;
-  background: var(--background);
  }
 
  .menu-button span {
@@ -34,14 +33,15 @@
  .menu-toggle {
   display: none;
  }
+
  .toggle {
   display: none;
   text-align: center;
   background: var(--background);
-  border-radius: 7px;
+  /* border-radius: 7px; */
   padding: 20px;
-  width: 150px;
-  margin: 10px auto;
+  /*  width: 150px; */
+  margin: auto;
  }
 
  .toggle li {
@@ -49,6 +49,11 @@
   display: block;
   padding: 10px 0;
   color: var(--text);
+ }
+
+ .menu-toggle:checked + .toggle {
+  display: block;
+  margin-top: 3rem;
  }
 
  /* IMG HCTG */
