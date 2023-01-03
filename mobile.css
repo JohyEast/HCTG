@@ -8,6 +8,7 @@
  .navbar {
   display: flex;
   justify-content: flex-end;
+  align-items: center;
  }
 
  /* menu toggle */
@@ -50,14 +51,15 @@
   color: var(--text);
  }
 
+ /* IMG HCTG */
  .imgHCTG img {
   width: 40%;
   height: 60%;
  }
 
- footer {
+ /*  footer {
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
- }
+ } */
 }
