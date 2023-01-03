@@ -1,16 +1,25 @@
 @media (max-width: 600px) {
+ /* navbar */
+
  .ul-header {
   display: none;
  }
+
+ .navbar {
+  display: flex;
+  justify-content: flex-end;
+ }
+
  /* menu toggle */
  .menu-button {
-  margin: 0 auto;
+  margin-right: 1rem;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
+  align-items: center;
   width: 40px;
   height: 36px;
-  padding: 10px;
+  padding: 7px;
   border-radius: 7px;
   cursor: pointer;
   background: var(--background);
@@ -36,8 +45,19 @@
 
  .toggle li {
   display: none;
-  /* display: block; */
+  display: block;
   padding: 10px 0;
   color: var(--text);
+ }
+
+ .imgHCTG img {
+  width: 40%;
+  height: 60%;
+ }
+
+ footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
  }
 }
