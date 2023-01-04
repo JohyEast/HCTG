@@ -79,6 +79,11 @@
  .vision {
   width: 60%;
  }
+
+ /* ubicacion */
+ .map {
+  width: 60%;
+ }
  /*  footer {
   display: flex;
   flex-direction: column;
