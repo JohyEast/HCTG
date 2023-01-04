@@ -52,7 +52,7 @@ a:hover {
 .scroll {
  scroll-margin-top: 3.5rem;
 }
-/* imagen HCTG */
+/* section inicio - imagen HCTG */
 
 .imgHCTG {
  display: flex;
@@ -64,7 +64,6 @@ a:hover {
  width: 40%;
  height: 60%;
 }
-/* section inicio */
 
 .mi-vi {
  margin-top: 2rem;
@@ -77,8 +76,37 @@ a:hover {
  margin: 0rem 1rem;
  text-align: center;
  width: 40%;
+ margin-bottom: 1rem;
 }
 
+/* section eq-salud */
+.eq-salud {
+ margin-top: 1rem;
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+}
+
+/* Contacto */
+.img-fbk {
+ width: 30px;
+ height: 30px;
+ margin-right: 3px;
+}
+.fbk {
+ margin-top: 1rem;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+.tel {
+ display: flex;
+ justify-content: center;
+}
+.tel img {
+ width: 30px;
+ height: 30px;
+}
 /* Map Ubicacion */
 
 #ubicacion {
