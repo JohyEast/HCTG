@@ -5,14 +5,23 @@
   display: none;
  }
 
- /*  .navbar {
+ .toggle {
   display: flex;
-  justify-content: flex-end;
-  align-items: center;
- } */
+  justify-content: space-around;
+  flex-wrap: wrap;
+ }
+
+ .img-mobile {
+  width: 30px;
+  height: 30px;
+ }
+
+ .toggle {
+  display: block;
+ }
 
  /* menu toggle */
- .menu-button {
+ /* .menu-button {
   margin: auto;
   display: flex;
   flex-direction: column;
@@ -39,12 +48,12 @@
   text-align: center;
   background: var(--background);
   /* border-radius: 7px; */
-  padding: 20px;
-  /*  width: 150px; */
-  margin: auto;
- }
+ /* padding: 20px; */
+ /*  width: 150px; */
+ /* margin: auto;
+ } */
 
- .toggle li {
+ /*  .toggle li {
   display: none;
   display: block;
   padding: 10px 0;
@@ -54,7 +63,7 @@
  .menu-toggle:checked + .toggle {
   display: block;
   margin: auto;
- }
+ }  */
 
  /* IMG HCTG */
  .imgHCTG img {
