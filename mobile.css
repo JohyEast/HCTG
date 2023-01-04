@@ -8,62 +8,13 @@
  .toggle {
   display: flex;
   justify-content: space-around;
-  flex-wrap: wrap;
+  margin-top: 0.5rem;
  }
 
  .img-mobile {
   width: 30px;
   height: 30px;
  }
-
- .toggle {
-  display: block;
- }
-
- /* menu toggle */
- /* .menu-button {
-  margin: auto;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-around;
-  align-items: center;
-  width: 40px;
-  height: 36px;
-  padding: 7px;
-  border-radius: 7px;
-  cursor: pointer;
- }
-
- .menu-button span {
-  width: 40px;
-  height: 4px;
-  background: var(--text);
- }
- .menu-toggle {
-  display: none;
- }
-
- .toggle {
-  display: none;
-  text-align: center;
-  background: var(--background);
-  /* border-radius: 7px; */
- /* padding: 20px; */
- /*  width: 150px; */
- /* margin: auto;
- } */
-
- /*  .toggle li {
-  display: none;
-  display: block;
-  padding: 10px 0;
-  color: var(--text);
- }
-
- .menu-toggle:checked + .toggle {
-  display: block;
-  margin: auto;
- }  */
 
  /* IMG HCTG */
  .imgHCTG img {
@@ -93,9 +44,4 @@
  .map {
   width: 60%;
  }
- /*  footer {
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-end;
- } */
 }
