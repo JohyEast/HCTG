@@ -1,19 +1,16 @@
 @media (max-width: 600px) {
  /* navbar */
-
  .ul-header {
-  display: none;
+  padding-top: 0.5rem;
  }
-
- .toggle {
-  display: flex;
-  justify-content: space-around;
-  margin-top: 0.5rem;
- }
-
  .img-mobile {
   width: 30px;
   height: 30px;
+  display: block;
+ }
+
+ .eti-span {
+  display: none;
  }
 
  /* IMG HCTG */

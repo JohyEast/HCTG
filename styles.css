@@ -30,8 +30,9 @@
  padding-top: 1rem;
 }
 
-.menu-toggle,
-.toggle {
+.img-mobile {
+ width: 30px;
+ height: 30px;
  display: none;
 }
 
