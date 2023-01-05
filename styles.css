@@ -27,7 +27,7 @@
 .ul-header {
  display: flex;
  justify-content: space-around;
- padding-top: 1rem;
+ padding-top: 0.5rem;
 }
 
 .img-mobile {
