@@ -1,7 +1,7 @@
 @media (max-width: 600px) {
  /* navbar */
  .ul-header {
-  padding-top: 0.5rem;
+  padding-top: 0.5rems;
  }
  .img-mobile {
   width: 30px;
