@@ -100,6 +100,17 @@ a:hover {
  align-items: center;
  text-align: center;
 }
+
+.img-cursos {
+ width: 30px;
+ height: 30px;
+}
+
+.acc-cursos {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
 /* Contacto */
 .img-fbk {
  width: 30px;
