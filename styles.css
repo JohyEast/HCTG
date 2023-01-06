@@ -132,6 +132,11 @@ a:hover {
  width: 35px;
  height: 35px;
 }
+.direccion {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
 /* Map Ubicacion */
 
 #ubicacion {
