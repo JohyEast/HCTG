@@ -1,4 +1,15 @@
 @media (max-width: 600px) {
+ /* Estilos para mobile */
+ span {
+  font-size: 1rem;
+ }
+ a {
+  font-size: 1rem;
+ }
+ p {
+  font-size: 1rem;
+ }
+
  /* navbar */
  .ul-header {
   padding-top: 0.5rem;
