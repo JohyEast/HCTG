@@ -151,6 +151,9 @@ a:hover {
 .map {
  margin-top: 1rem;
 }
+#ubicacion span {
+ margin-top: 1rem;
+}
 
 /* footer */
 
