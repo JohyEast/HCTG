@@ -127,7 +127,7 @@ a:hover {
  justify-content: center;
  align-items: center;
 }
-.tel {
+.contact {
  display: flex;
  justify-content: center;
  align-items: center;
@@ -137,16 +137,7 @@ a:hover {
  height: 30px;
  margin-right: 3px;
 }
-.direccion {
- display: flex;
- justify-content: center;
- align-items: center;
-}
-.mail {
- display: flex;
- justify-content: center;
- align-items: center;
-}
+
 /* Map Ubicacion */
 
 #ubicacion {
