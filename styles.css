@@ -179,7 +179,7 @@ footer {
 }
 summary {
  background-color: var(--background);
- border: 1px solid var(--background);
+ border: 1px solid var(--text);
  color: var(--text);
  height: auto;
  width: 165px;
