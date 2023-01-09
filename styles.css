@@ -96,6 +96,12 @@ a:hover {
  align-items: center;
 }
 
+.masServ {
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+}
+
 /* docencia */
 .ul-docencia {
  margin-top: 1rem;
@@ -159,4 +165,35 @@ footer {
  margin-bottom: 1rem;
  text-align: center;
  font-size: 8px;
+}
+
+/* historia */
+.historia {
+ margin: 0 2rem 2rem 2rem;
+ text-align: center;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+}
+summary {
+ background-color: var(--background);
+ border: 1px solid var(--background);
+ color: var(--text);
+ height: 18px;
+ width: 165px;
+ border-radius: 10px;
+ text-align: center;
+ box-sizing: border-box;
+}
+
+#myDetails {
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+}
+
+.mDsummary {
+ margin: auto;
 }
