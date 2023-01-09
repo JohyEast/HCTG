@@ -180,7 +180,7 @@ summary {
  background-color: var(--background);
  border: 1px solid var(--background);
  color: var(--text);
- height: 18px;
+ height: auto;
  width: 165px;
  border-radius: 10px;
  text-align: center;
