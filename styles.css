@@ -61,6 +61,7 @@ a:hover {
 }
 .scroll {
  scroll-margin-top: 3.5rem;
+ margin-bottom: 3rem;
 }
 /* section inicio - imagen HCTG */
 
@@ -87,6 +88,7 @@ a:hover {
  text-align: center;
  width: 40%;
  margin-bottom: 1rem;
+ gap: 1rem;
 }
 
 /* section eq-salud */
@@ -101,6 +103,7 @@ a:hover {
  display: flex;
  flex-direction: column;
  align-items: center;
+ margin-top: 1rem;
 }
 
 /* docencia */
@@ -121,6 +124,7 @@ a:hover {
  display: flex;
  justify-content: center;
  align-items: center;
+ margin-top: 1rem;
 }
 /* Contacto */
 .img-fbk {
@@ -184,6 +188,7 @@ footer {
  flex-direction: column;
  justify-content: center;
  align-items: center;
+ gap: 1rem;
 }
 summary {
  background-color: var(--background);
@@ -205,4 +210,8 @@ summary {
 
 .mDsummary {
  margin: auto;
+}
+
+.space {
+ margin-top: 1rem;
 }
