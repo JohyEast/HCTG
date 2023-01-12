@@ -103,6 +103,7 @@ a:hover {
  display: flex;
  flex-direction: column;
  align-items: center;
+ margin-top: 1rem;
 }
 
 /* docencia */
@@ -123,6 +124,7 @@ a:hover {
  display: flex;
  justify-content: center;
  align-items: center;
+ margin-top: 1rem;
 }
 /* Contacto */
 .img-fbk {
