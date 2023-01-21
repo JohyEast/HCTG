@@ -61,9 +61,8 @@ a:hover {
 }
 .scroll {
  scroll-margin-top: 3.5rem;
- margin-bottom: 3rem;
  max-width: 1024px;
- margin: 0 auto;
+ margin: 0 auto 3rem;
 }
 /* section inicio - imagen HCTG */
 
