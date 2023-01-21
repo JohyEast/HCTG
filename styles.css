@@ -61,7 +61,8 @@ a:hover {
 }
 .scroll {
  scroll-margin-top: 3.5rem;
- margin-bottom: 3rem;
+ max-width: 1024px;
+ margin: 0 auto 3rem;
 }
 /* section inicio - imagen HCTG */
 
@@ -135,7 +136,7 @@ a:hover {
  margin-right: 3px;
 }
 .fbk {
- margin-top: 1rem;
+ margin: 1rem 0 0 0;
  display: flex;
  justify-content: center;
  align-items: center;
