@@ -74,6 +74,8 @@ a:hover {
 .imgHCTG img {
  width: 40%;
  height: 60%;
+ border-radius: 20px;
+ border: solid 2px var(--text);
 }
 
 .mi-vi {
@@ -158,6 +160,8 @@ a:hover {
 }
 .map {
  margin-top: 1rem;
+ border-radius: 20px;
+ border: solid 2px var(--text);
 }
 #ubicacion span {
  margin-top: 1rem;
@@ -215,4 +219,21 @@ summary {
 
 .space {
  margin-top: 1rem;
+}
+/* Animacion de inicio */
+.inicio {
+ transform: translateY(0%);
+}
+
+@keyframes slideDown {
+ from {
+  transform: translateY(-100%);
+ }
+ to {
+  transform: translateY(0);
+ }
+}
+
+.slide-down {
+ animation: slideDown 1s ease-in;
 }
