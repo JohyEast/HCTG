@@ -216,3 +216,20 @@ summary {
 .space {
  margin-top: 1rem;
 }
+
+.inicio {
+ transform: translateY(0%);
+}
+
+@keyframes slideDown {
+ from {
+  transform: translateY(-100%);
+ }
+ to {
+  transform: translateY(0);
+ }
+}
+
+.slide-down {
+ animation: slideDown 1s ease-in;
+}
