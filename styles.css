@@ -222,7 +222,7 @@ summary {
  margin-top: 1rem;
 }
 /* Animacion de inicio */
-.inicio {
+/* .inicio {
  transform: translateY(0%);
 }
 
@@ -237,4 +237,4 @@ summary {
 
 .slide-down {
  animation: slideDown 1s ease-in;
-}
+} */
