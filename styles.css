@@ -14,7 +14,7 @@
 }
 
 html {
- font-family: "Caveat", cursive, sans-serif;
+ font-family: "Handlee", cursive, "sans-serif";
  font-size: 20px;
  /* scroll-behavior: smooth; */
 }
@@ -60,26 +60,26 @@ h1 {
  margin-top: 3.5rem;
  text-align: center;
  font-size: 2rem;
- font-family: "Caveat", cursive;
+ font-family: "Handlee", cursive;
 }
 
 h2 {
  text-align: center;
- font-family: "Caveat", cursive;
+ font-family: "Handlee", cursive;
 }
 h4 {
  text-align: center;
- font-family: "Caveat", cursive;
+ font-family: "Handlee", cursive;
 }
 p {
- font-family: "Caveat", cursive;
+ font-family: "Handlee", cursive;
  font-size: 1rem;
 }
 b {
- font-family: "Caveat", cursive;
+ font-family: "Handlee", cursive;
 }
 span {
- font-family: "Caveat", cursive;
+ font-family: "Handlee", cursive;
 }
 a:hover {
  font-weight: 700;
