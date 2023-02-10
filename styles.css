@@ -15,7 +15,7 @@
 
 html {
  font-family: "Caveat", cursive, sans-serif;
- font-size: 16px;
+ font-size: 20px;
  /* scroll-behavior: smooth; */
 }
 /* NavBar */
@@ -76,6 +76,9 @@ p {
  font-size: 1rem;
 }
 b {
+ font-family: "Caveat", cursive;
+}
+span {
  font-family: "Caveat", cursive;
 }
 a:hover {
