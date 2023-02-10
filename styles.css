@@ -87,7 +87,7 @@ a:hover {
 .imgHCTG img {
  width: 40%;
  height: 60%;
- border-radius: 20px;
+ border-radius: 1.25rem;
  border: solid 2px var(--text);
 }
 
@@ -111,7 +111,14 @@ a:hover {
  margin-top: 1rem;
  display: flex;
  flex-direction: column;
+ width: 100%;
  align-items: center;
+ width: 100%;
+}
+
+.eq-salud li {
+ width: 100%;
+ text-align: center;
 }
 
 .masServ {
@@ -121,6 +128,10 @@ a:hover {
  margin-top: 1rem;
 }
 
+.masServ li {
+ width: 100%;
+ text-align: center;
+}
 /* docencia */
 .ul-docencia {
  margin-top: 1rem;
@@ -157,6 +168,7 @@ a:hover {
  display: flex;
  justify-content: center;
  align-items: center;
+ width: 100%;
 }
 .tel img {
  width: 1.875rem;
@@ -173,7 +185,7 @@ a:hover {
 }
 .map {
  margin-top: 1rem;
- border-radius: 20px;
+ border-radius: 1.25rem;
  border: solid 2px var(--text);
 }
 #ubicacion span {
@@ -213,7 +225,7 @@ summary {
  color: var(--text);
  height: auto;
  width: 10.3125rem;
- border-radius: 10px;
+ border-radius: 0.625rem;
  text-align: center;
  box-sizing: border-box;
 }
