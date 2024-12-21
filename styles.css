@@ -276,3 +276,26 @@ summary {
 .slide-down {
  animation: slideDown 1s ease-in;
 } */
+
+.boton {
+    background-color: var(--background);
+    border: 1px solid var(--text);
+    color: var(--text);
+    height: auto;
+    /* width: 10.3125rem; */
+    border-radius: 0.625rem;
+    text-align: center;
+    box-sizing: border-box;
+    font-family: "Handlee", cursive;
+    font-size: 1rem;
+    padding-left: .5rem;
+    padding-right: .5rem;
+   }
+
+#botones_container2, #botones_container {
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
