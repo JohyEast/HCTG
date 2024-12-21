@@ -1,6 +1,6 @@
 
  // Nombres personalizados para los botones
- const nombresBotones = ["Consultas Legales / Oficios judiciales", "Turnos y Admisiones", "Consultas de Enfermería"];
+ const nombresBotones = ["Consultas Legales / Oficios Judiciales", "Turnos y Admisiones", "Consultas de Enfermería"];
   // Mensajes personalizados para cada botón
   const mensajesBotones = [
     "Seleccionó Consultas Legales / Oficios Judiciales: Los mismos deben enviarse a tobar_direccion@buenosaires.gob.ar",
