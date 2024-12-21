@@ -3,7 +3,7 @@
  const nombresBotones = ["Consultas Legales / Oficios judiciales", "Turnos y Admisiones", "Consultas de Enfermería"];
   // Mensajes personalizados para cada botón
   const mensajesBotones = [
-    "Seleccionó Consultas Legales / Oficios judiciales: Los mismos deberan enviarse a tobar_direccion@buenosaires.gob.ar",
+    "Seleccionó Consultas Legales / Oficios Judiciales: Los mismos deben enviarse a tobar_direccion@buenosaires.gob.ar",
     "Seleccionó Turnos y Admisiones: Los turnos se otorgan una vez que se es paciente del Hospital. Debe solicitar turno de orientación al +54 (11) 4363-5055 de lunes a viernes de 8.00 hs a 14.00 hs. Si hay riesgo para el paciente o para otras personas puede consultar por guardia las 24 hs",
     "Seleccionó Consultas de Enfermería: Las mismas deben enviarse a enfermeriatobargarcia@gmail.com "
   ];
